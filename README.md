@@ -9,6 +9,11 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 - 💬 Ask me about ...
 - 📫 How to reach me: 20240029658@my.xu.edu.ph
 
+## Fun Fact
+- I love cycling
+- I love to cook
+- travel alot
+
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
 
