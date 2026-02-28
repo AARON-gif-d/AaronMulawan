@@ -7,7 +7,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at STI College.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
-- 📫 How to reach me: <your-email@my.xu.edu.ph>
+- 📫 How to reach me: 20240029658@my.xu.edu.ph
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
@@ -18,7 +18,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
   - Building server-side applications with Django or Express.js.
 
 ## 🏆 Achievements
-- 🌟 Completed Git & GitHub Setup 2024
+- 🌟 Completed Git & GitHub Setup 2026
 - 🔭 I’m currently working on my final API project.
 
 Thanks for stopping by!
